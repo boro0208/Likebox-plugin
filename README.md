@@ -1,0 +1,1 @@
+Simple facebook likebox plugin
